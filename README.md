@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Juan Rodriguez 👋
 
-<!--
-**JuanRS26/JuanRS26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Data Engineer** focused on data transformation, validation, and ETL processes using Python and SQL.
 
-Here are some ideas to get you started:
+I have experience working with large datasets, relational databases, and data quality processes. Currently expanding my skills in AWS and modern Data Engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+
+* Python
+* SQL
+* MySQL
+* Oracle SQL
+* Pandas
+* ETL Processes
+* Data Validation
+* APIs
+* Git & GitHub
+* Power BI
+* AWS (Learning)
+
+## 📌 Featured Project
+
+### NYC Taxi Data Pipeline
+
+End-to-end data pipeline built using Python, Pandas and SQL for processing and analyzing New York City taxi trip data.
+
+Key features:
+
+* Data extraction and cleaning
+* Data quality validation
+* ETL workflow implementation
+* Exploratory data analysis
+* Mobility metrics generation
+
+## 🎯 Currently Learning
+
+* AWS Cloud Services
+* Data Warehousing
+* Apache Airflow
+* Docker
+* Advanced SQL Optimization
+
+## 🌐 Connect With Me
+
+Portfolio: https://juanrodriguezsalcedo.com
+
+LinkedIn: https://linkedin.com/in/juan-rodriguez-salcedo
+
+Location: Spain 🇪🇸
